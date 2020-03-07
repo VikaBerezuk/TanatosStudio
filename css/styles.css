@@ -145,4 +145,13 @@ textarea {
     line-height: 35px;
     transition: .5s; }
 
+.carousel {
+  background-image: url(../img/background3.png); }
+
+.carousel-control-next-icon {
+  background-image: url(../img/next.png); }
+
+.carousel-control-prev-icon {
+  background-image: url(../img/prev.png); }
+
 /*# sourceMappingURL=styles.css.map */
